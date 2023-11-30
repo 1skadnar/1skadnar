@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1skadnar
+- 👋 Hi, I’m @1skandar
 - 👀 I’m interested in watching anime and coding
 - 🌱 I’m currently learning flutter and C#
 - 💞️ I’m looking to collaborate on the apple company
